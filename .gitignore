@@ -1,0 +1,18 @@
+# Node.js (si usas frontend con node_modules)
+node_modules/
+
+# Archivos de entorno con secretos
+.env
+
+# Archivos de log
+*.log
+
+# Archivos compilados o temporales (si usas Python o compilados)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Venv / Entornos virtuales
+venv/
+env/
