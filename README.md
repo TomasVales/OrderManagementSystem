@@ -17,7 +17,7 @@ The API allows clients (both registered and guests) to:
 
 This project aims to simulate how a backend service for a modern food ordering platform would operate, including automation, client communication, and secure access layers.
 
-> ⚙️ Built with: FastAPI, Python, SQLite (or PostgreSQL), SQLAlchemy, Pydantic, and Twilio API.
+> ⚙️ Built with: FastAPI, Python, PostgreSQL, SQLAlchemy, Pydantic, and Twilio API.
 
 Images below demonstrate API endpoints, example payloads, and WhatsApp integration.
 
